@@ -31,6 +31,7 @@ Run the script: python scanner.py
 Enter the target IP address or hostname when prompted.
 
 Disclaimer
+
 This tool is intended for educational and authorized security testing only.
 Do not use it on networks or systems you do not own or have explicit permission to test.
 
