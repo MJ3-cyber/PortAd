@@ -7,13 +7,17 @@ It is designed for quick vulnerability checks on a given target IP or range.
 Features
 
 Port Scanning - Scans for open ports using nmap.
+
 Service Detection - Identifies service versions running on open ports.
+
 Security Recommendations - Provides best practice advice for common services.
+
 Timestamp Logging - Records scan start and end times.
 
 Requirements
 
-Python 3.x ,
+Python 3.x 
+
 python-nmap
 
 Install dependencies:
@@ -21,6 +25,7 @@ pip install python-nmap
 
 Usage
 Run the script: python scanner.py
+
 Enter the target IP address or hostname when prompted.
 
 Disclaimer
