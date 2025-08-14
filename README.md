@@ -1,6 +1,9 @@
 # PortAd
+
 Port scanner with service detection and basic security advice.
+
 Overview
+
 This project is a Python-based network security scanner that uses the nmap library to detect open ports, identify running services, and provide basic security recommendations.
 It is designed for quick vulnerability checks on a given target IP or range.
 
