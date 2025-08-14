@@ -21,9 +21,11 @@ Python 3.x
 python-nmap
 
 Install dependencies:
+
 pip install python-nmap
 
 Usage
+
 Run the script: python scanner.py
 
 Enter the target IP address or hostname when prompted.
